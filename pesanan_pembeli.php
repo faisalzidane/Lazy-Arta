@@ -23,7 +23,7 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
@@ -36,7 +36,7 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
         <div class="container">
           <h1 class="display-4"><span class="font-weight-bold">LAZYARTA</span></h1>
           <hr>
-          <p class="lead font-weight-bold">Silahkan Pesan Menu Sesuai Keinginanmu <br> 
+          <p class="lead font-weight-bold">Silahkan Pesan Produk Sesuai Keinginanmu <br> 
           Enjoy Your Shopping</p>
         </div>
       </div>
