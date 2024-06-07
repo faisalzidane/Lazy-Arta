@@ -44,7 +44,7 @@ include 'koneksi.php';
           </div>
         </div>
         <div class="mb-3" >
-          <small><a href="register.php" class="text-dark">Belum Punya Akun? Buat Akun Anda !</a></small>
+          <small><a href="register.php" class="text-dark">Belum Punya Akun ? Buat Akun Anda !</a></small>
         </div>
         <button type="submit" name="submit" class="btn btn-primary">LOGIN</button>
         <button type="reset" name="reset" class="btn btn-danger">RESET</button>
