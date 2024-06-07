@@ -75,7 +75,7 @@ include 'koneksi.php';
                   header('location: user.php'); 
                 }
             }else{
-                header("location: login.php");
+                header("location: index.php");
             }
         }
        ?>
